@@ -21,6 +21,7 @@ def bonus
   }
 
   #code your solution here:
+  def killing_rnj(status)
 
   
 
